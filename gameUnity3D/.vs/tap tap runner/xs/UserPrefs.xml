@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{302A7B81-F9CB-2390-58E8-C8F25B2604D8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/lose.cs">
+    <Files>
+      <File FileName="Assets/scripts/destroybutton.cs" Line="16" Column="1" />
+      <File FileName="Assets/scripts/destroyredbutton.cs" />
+      <File FileName="Assets/scripts/spawnbutton.cs" />
+      <File FileName="Assets/scripts/destroygreenbutton.cs" />
+      <File FileName="Assets/scripts/life.cs" />
+      <File FileName="Assets/scripts/playagain.cs" />
+      <File FileName="Assets/scripts/play.cs" />
+      <File FileName="Assets/scripts/menu.cs" />
+      <File FileName="Assets/scripts/score.cs" />
+      <File FileName="Assets/scripts/highscoree.cs" />
+      <File FileName="Assets/scripts/rotate.cs" />
+      <File FileName="Assets/scripts/sound.cs" />
+      <File FileName="Assets/scripts/tapon.cs" />
+      <File FileName="Assets/scripts/tapoff.cs" />
+      <File FileName="Assets/scripts/dontdest.cs" />
+      <File FileName="Assets/scripts/dontdestred.cs" />
+      <File FileName="Assets/scripts/dontdestbut.cs" />
+      <File FileName="Assets/scripts/lose.cs" Line="13" Column="1" />
+      <File FileName="Assets/scripts/exit.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5abd628d-5861-439f-8c54-9885f2704496" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
